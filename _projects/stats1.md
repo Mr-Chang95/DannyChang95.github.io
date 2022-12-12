@@ -2,9 +2,9 @@
 layout: page
 title: Home Price
 description: Statistic Project
-img: assets/img/**YOURIMAGE***
+img: 
 importance: 1
-category: r
+category: work
 ---
 
 House Prices - Regression Techniques: <a href=''>Kaggle Competition Store</a>  
